@@ -1,0 +1,1 @@
+#this folder is used for getting reusable scripts for CTFs without wasting time to write them again and again
