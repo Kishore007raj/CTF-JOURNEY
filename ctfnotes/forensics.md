@@ -1,0 +1,1 @@
+# this file is used for forensics, stego, steganography, binwalk, strings, exiftool based notes
