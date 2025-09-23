@@ -1,0 +1,19 @@
+# Ignore challenge PDFs and other unnecessary files
+*.pdf
+*.zip
+*.pcapng
+*.dmp
+*.kdbx
+*.txt
+*.log
+*.exe
+*.bin
+*.7z
+*.rar
+*.tar
+*.gz
+*.iso
+
+
+# Ignore images if you don't want to share them
+images/
